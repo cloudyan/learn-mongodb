@@ -1,2 +1,5 @@
 # mongodb-tutorial
-mongodb 教程
+
+MongoDB 精简教程，七天掌握
+
+[docs](./docs)
