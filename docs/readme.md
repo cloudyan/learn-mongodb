@@ -1,12 +1,12 @@
 # mongodb-tutorial
 
-MongoDB 精简教程，七天掌握
+MongoDB 精简教程
 
 - 场景分析，使用必读
-- 第一天
-  - [x] [安装配置](./1.1.install.md)
-  - [x] [简单使用](./1.2.base.md)
-- [x] 第二天: [深入增删改查](./2.crud.md)
+- [x] [安装配置](./1.install.md)
+- [x] [增删改查](./2.crud.md)
+- [x] [高级用法](./3.senior.md)
+- [mongoose](./mongoose.md)
 
 ## 场景分析
 
