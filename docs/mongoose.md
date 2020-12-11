@@ -181,7 +181,9 @@ distinct 去重
 参考：
 
 - https://mongoosejs.com/docs/
+  - https://mongoosejs.com/docs/queries.html
 - https://segmentfault.com/a/1190000008366129
 - https://segmentfault.com/a/1190000012095054
 - https://i5ting.github.io/wechat-dev-with-nodejs/db/mongoose.html
 - https://cnodejs.org/topic/504b4924e2b84515770103dd
+- https://juejin.im/entry/5a0596c5f265da43163c89e4
